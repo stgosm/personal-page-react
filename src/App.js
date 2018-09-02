@@ -49,7 +49,7 @@ const Separate = styled.div`
     background-color: grey;
     opacity: 0.7;
     height: 2px;
-    width: 500px;
+    width: 38%;
     border-radius: 90px;
     margin-bottom: 5px;
 `
